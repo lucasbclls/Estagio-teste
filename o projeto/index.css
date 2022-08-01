@@ -1,0 +1,141 @@
+* {
+    margin: 0; 
+    padding: 0;
+}
+
+.principal {
+
+    background-color: #f1f1f1;
+
+}
+
+
+
+
+
+
+body {
+    background-color: #f1f1f1;
+}
+
+/*  INICIO CSS HEADER */
+
+
+.header {
+
+    background: #0f0f0f;
+    margin-bottom: 50px;
+    height: 70px;
+}
+
+
+
+
+#localization {
+    font-size: 15px;
+    color: #ffffff;
+
+
+
+
+
+    display: flex;
+    
+    align-items: center;
+    
+    
+    
+    
+    left: 40px;
+    
+    
+
+}
+
+#subtitulo {
+    font-size: 20px;
+    display: flex;
+    padding-top: 30px;
+}
+
+#titulo {
+    font-size: 40px;
+    padding-top: 30px;
+}
+/*  FINAL CSS HEADER */
+
+
+
+/*  INICIO CSS MAIN */
+
+
+
+
+
+
+.col-12 {
+    background-color: white;
+
+    border: 1px solid;
+    border-radius: 20px;
+    
+}
+
+/* INICIO PLANOS */
+
+
+
+.butons{
+ display: flex;
+ justify-content: space-around;
+ min-width: 20px;
+
+}
+
+
+button {
+    display: flex;
+    align-items:center;
+    justify-content: center;
+
+}
+
+
+/* FINAL PLANOS */
+
+
+
+ /*  Final CSS MAIN */
+
+
+/* INICIO CSS FOOTER*/
+
+
+footer {
+    position: static;
+    top: 60px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.footer {
+    background-color: white;
+    color: #86868b;
+}
+
+/* FINAL CSS FOOTER*/
+
+
+
+.col-sm {
+    border: 1px solid black;
+    background-color: white;
+    margin-bottom: 20px;
+    border-radius: 20px;
+  
+}
+
+#select {
+    display: flex;
+}
